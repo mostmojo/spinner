@@ -10,7 +10,7 @@ $("#pick").click(function() {
   // Get a random name, the winner
   var winner = nameArray[Math.floor(Math.random() * nameArray.length)];
 
-  winner = "🎉" + " " + winner + " thou art in luck" + " " + "🎉";
+  winner = "🎉" + " " + winner + " lcuky thee" + " " + "🎉";
 
   // Display winner
   $("#world").addClass("open");
