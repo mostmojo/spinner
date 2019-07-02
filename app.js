@@ -12,8 +12,6 @@ $("#pick").click(function() {
 
   winner = "🎉" + " " + winner + " thou art in luck" + " " + "🎉";
 
-   x alex
-
   // Display winner
   $("#world").addClass("open");
   $("#winner").addClass("open");
