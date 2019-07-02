@@ -67,7 +67,7 @@ html {
 }
 
 .background {
-  whidth: 100%;
+  width: 100%;
   height: 100vh;
   min-height: 700px;
   background: linear-gradient(to bottom right, #121323, #0500B4);
